@@ -1,4 +1,4 @@
-# STAT3500 Assignment 3
+# STAT3500-Assignment-3
 
 
 ### About
